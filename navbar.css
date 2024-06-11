@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+}
+.navbar-container ul {
+    display: flex;
+    gap: 7rem;
+    list-style-type: none;
+    margin-left: 42rem;
+    margin-top: -1rem;
+    
+   
+}
+.navbar ul li{
+    color: inherit; /* Inherit the color from the parent element */
+    text-decoration: none; /* Remove underline */
+
+}
